@@ -1,0 +1,4 @@
+.DS_Store
+MegaBlog with Appwrite/.env
+node_modules
+.env
